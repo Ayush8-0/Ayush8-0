@@ -73,7 +73,7 @@ I love working across the stack — from intuitive frontend interfaces to robust
 - 💼 LinkedIn: [ayush-kumthekar](https://www.linkedin.com/in/ayush-kumthekar-73b662224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 Portfolio: [ayushkumthekar07](https://ayushkumthekar07-wlvpu.wordpress.com/)
 - 📧 Mail: [Ayush Kumthekar](mailto:ayushkumthekar07@gmail.com)
-- 📧 Alternat Mail: [Ayush Kumthekar]{mailto:aak18010@gmail.com}
+- 📧 Alternat Mail: [Ayush Kumthekar] {mailto:aak18010@gmail.com}
 
 ---
 
